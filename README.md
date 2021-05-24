@@ -55,5 +55,4 @@ npm init
 
 npm install inquirer
 
-npm install inquirer 
 
