@@ -1,0 +1,19 @@
+{
+  "name": "c",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "6c"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Th-Svn/portfolio-generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Th-Svn/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Th-Svn/portfolio-generator#readme"
+}
