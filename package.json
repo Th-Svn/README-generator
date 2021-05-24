@@ -1,7 +1,7 @@
 {
-  "name": "c",
+  "name": "inquirer",
   "version": "1.0.0",
-  "description": "",
+  "description": "npm inquirer",
   "main": "app.js",
   "scripts": {
     "test": "6c"
@@ -10,10 +10,13 @@
     "type": "git",
     "url": "git+https://github.com/Th-Svn/portfolio-generator.git"
   },
-  "author": "",
+  "author": "thelma",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Th-Svn/portfolio-generator/issues"
   },
-  "homepage": "https://github.com/Th-Svn/portfolio-generator#readme"
+  "homepage": "https://github.com/Th-Svn/portfolio-generator#readme",
+  "keywords": [
+    "inquirer"
+  ]
 }
